@@ -3,10 +3,4 @@
   "version": "1.0.0",
   "description": "Build all the things",
   "main": "server.js",
-  "engines": {
-    "node": "0.12.7"
-  },
-  "scripts": {
-    "postinstall": "./npm-postinstall.sh"
-  }
 }
